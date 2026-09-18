@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [YOUR NAME] 👋</h1>
+<h1 align="center">Hi, I'm Divyansh Bhainsora 👋</h1>
 
 <p align="center">
   <b>AI Engineer</b> · LLMs &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; MLOps
